@@ -11,9 +11,11 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-### Environment Variables
+## Environment Variables
 
 ```
+# .env
+
 # Testnet
 PHEMEX_API_ID=
 PHEMEX_API_SECRET=
